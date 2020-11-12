@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[https://www.linyuanlin.com](https://www.linyuanlin.com)
+Please visit my portfolio website on [https://www.linyuanlin.com](https://www.linyuanlin.com) !
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ken20001207&show_icons=true)
 
