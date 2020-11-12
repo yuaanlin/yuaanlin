@@ -19,4 +19,4 @@
 
 #### My Portfolio Website
 
-![https://www.linyuanlin.com](https://www.linyuanlin.com)
+[https://www.linyuanlin.com](https://www.linyuanlin.com)
