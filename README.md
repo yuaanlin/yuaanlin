@@ -1,12 +1,10 @@
 ### Hi there 👋
 
+[https://www.linyuanlin.com](https://www.linyuanlin.com)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ken20001207&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ken20001207&layout=compact)
-
-#### 🔭 I’m currently working on ...
-
-- React & React Native Frontend Development using Typescript
 
 #### 🌱 I’m currently learning ...
 
@@ -16,7 +14,3 @@
 #### 📫 How to reach me:
 
 - email: im.yuanlinlin@gmail.com
-
-#### My Portfolio Website
-
-[https://www.linyuanlin.com](https://www.linyuanlin.com)
