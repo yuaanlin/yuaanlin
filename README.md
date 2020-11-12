@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Yuanlin's github stats](https://github-readme-stats.vercel.app/api?username=ken20001207&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ken20001207&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ken20001207&layout=compact)
 
