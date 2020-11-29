@@ -4,7 +4,7 @@ Please visit my portfolio website on [https://www.linyuanlin.com](https://www.li
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ken20001207&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ken20001207&hide=javascript,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ken20001207&hide=javascript,css,java)
 
 #### 📫 How to reach me:
 
