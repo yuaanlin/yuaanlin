@@ -1,4 +1,4 @@
-### Wellcome 👋
+# Wellcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am Yuanlin Lin, a freelance full-stack developer, UI/UX designer and product manager.
 
