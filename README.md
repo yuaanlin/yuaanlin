@@ -14,6 +14,8 @@ Please visit my portfolio website on [https://www.linyuanlin.com](https://www.li
 ![](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ken20001207&hide=javascript,css,html)
+
 #### 📫 How to reach me:
 
 - email: im.yuanlinlin@gmail.com
