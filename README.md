@@ -6,7 +6,7 @@ Please visit my portfolio website on [https://www.linyuanlin.com](https://www.li
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ken20001207&show_icons=true&count_private=true)
 
-### Languages
+## Languages
 
 ![](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
@@ -16,6 +16,21 @@ Please visit my portfolio website on [https://www.linyuanlin.com](https://www.li
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ken20001207&hide=javascript,css,html)
 
-#### 📫 How to reach me:
+## Frontend Stacks
+
+![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&link=https://github.com/facebook/react)
+![](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&link=https://github.com/facebook/react)
+![](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&link=https://github.com/expo/expo)
+
+## Backend Stacks
+
+![](https://img.shields.io/badge/-Gin%20Gonic-00ADD8?link=https://github.com/gin-gonic/gin)
+![](https://img.shields.io/badge/-Koa%20JS-000000?link=https://koajs.com)
+![](https://img.shields.io/badge/-Nest%20JS-E0234E?logo=nestjs&logoColor=white)
+![](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![](https://img.shields.io/badge/-Mongo%20DB-47A248?logo=mongodb&logoColor=white)
+
+### 📫 How to reach me:
 
 - email: im.yuanlinlin@gmail.com
