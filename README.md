@@ -22,8 +22,8 @@ Please visit my portfolio website on [https://www.linyuanlin.com](https://www.li
 ![](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white)
 ![](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&link=https://github.com/expo/expo)
-![](https://img.shields.io/badge/-Vue-4FC08D?logo=vue&logoColor=white)
-
+![](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
+![](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white)
 
 ## Backend Skills
 
@@ -40,15 +40,23 @@ Please visit my portfolio website on [https://www.linyuanlin.com](https://www.li
 ![](https://img.shields.io/badge/-CircleCI-343434?logo=circleci&logoColor=white)
 ![](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google%20cloud&logoColor=white)
 ![](https://img.shields.io/badge/-Amazon%20Web%20Service-232F3E?logo=amazon%20aws&logoColor=white)
+![](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![](https://img.shields.io/badge/-Nginx-269539?logo=Nginx&logoColor=white)
 
 ## Tool Skills
 
 ![](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 ![](https://img.shields.io/badge/-Jira%20Software-0052CC?logo=jira%20software&logoColor=white)
 ![](https://img.shields.io/badge/-Google%20Analytics-E37400?logo=google%20analytics&logoColor=white)
+![](https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white)
+![](https://img.shields.io/badge/-Intellij%20Idea-000000?logo=intellij%20idea&logoColor=white)
+![](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=white)
+
 ![](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe%20xd&logoColor=white)
-![](https://img.shields.io/badge/-Adobe%20After%20Effects-9999FF?logo=adobe%20after%20effects&logoColor=white)
+![](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white)
+![](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9999FF?logo=adobe%20premiere%20pro&logoColor=white)
+![](https://img.shields.io/badge/-Adobe%20After%20Effects-9999FF?logo=adobe%20after%20effects&logoColor=white)
 
 ### 📫 How to reach me:
 
