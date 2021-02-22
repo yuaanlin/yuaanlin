@@ -43,14 +43,20 @@ Please visit my portfolio website on [https://www.linyuanlin.com](https://www.li
 ![](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/-Nginx-269539?logo=Nginx&logoColor=white)
 
-## Tool Skills
+## Development Tool skills
 
 ![](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 ![](https://img.shields.io/badge/-Jira%20Software-0052CC?logo=jira%20software&logoColor=white)
-![](https://img.shields.io/badge/-Google%20Analytics-E37400?logo=google%20analytics&logoColor=white)
-![](https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white)
 ![](https://img.shields.io/badge/-Intellij%20Idea-000000?logo=intellij%20idea&logoColor=white)
 ![](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=white)
+
+## Analysis Tool skills
+
+![](https://img.shields.io/badge/-Google%20Analytics-E37400?logo=google%20analytics&logoColor=white)
+![](https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white)
+![](https://img.shields.io/badge/-Facebook%20Pixel-1877F2?logo=facebook&logoColor=white)
+
+## Design Tool Skills
 
 ![](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe%20xd&logoColor=white)
 ![](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
