@@ -10,6 +10,7 @@ Please visit my portfolio website on [https://www.linyuanlin.com](https://www.li
 
 ![](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
+![](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
@@ -27,9 +28,9 @@ Please visit my portfolio website on [https://www.linyuanlin.com](https://www.li
 
 ## Backend Skills
 
-![](https://img.shields.io/badge/-Gin%20Gonic-00ADD8?link=https://github.com/gin-gonic/gin)
+![](https://img.shields.io/badge/-Gin-00ADD8?link=https://github.com/gin-gonic/gin)
 ![](https://img.shields.io/badge/-Koa%20JS-000000?link=https://koajs.com)
-![](https://img.shields.io/badge/-Nest%20JS-E0234E?logo=nestjs&logoColor=white)
+![](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 ![](https://img.shields.io/badge/-Mongo%20DB-47A248?logo=mongodb&logoColor=white)
@@ -45,6 +46,8 @@ Please visit my portfolio website on [https://www.linyuanlin.com](https://www.li
 
 ## Development Tool skills
 
+![](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![](https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white)
 ![](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 ![](https://img.shields.io/badge/-Jira%20Software-0052CC?logo=jira%20software&logoColor=white)
 ![](https://img.shields.io/badge/-Intellij%20Idea-000000?logo=intellij%20idea&logoColor=white)
