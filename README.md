@@ -39,10 +39,14 @@ Please visit my portfolio website on [https://www.linyuanlin.com](https://www.li
 
 ![](https://img.shields.io/badge/-Github%20Actions-2088FF?logo=github%20actions&logoColor=white)
 ![](https://img.shields.io/badge/-CircleCI-343434?logo=circleci&logoColor=white)
-![](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google%20cloud&logoColor=white)
-![](https://img.shields.io/badge/-Amazon%20Web%20Service-232F3E?logo=amazon%20aws&logoColor=white)
 ![](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/-Nginx-269539?logo=Nginx&logoColor=white)
+![](https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes&logoColor=white)
+
+## Experienced Cloud Platform
+
+![](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google%20cloud&logoColor=white)
+![](https://img.shields.io/badge/-Amazon%20Web%20Service-232F3E?logo=amazon%20aws&logoColor=white)
 
 ## Development Tool skills
 
