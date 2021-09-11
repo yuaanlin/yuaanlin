@@ -4,6 +4,10 @@ I am Yuanlin Lin, a freelance full-stack developer, UI/UX designer and product m
 
 Please visit my portfolio website on [https://www.linyuanlin.com](https://www.linyuanlin.com) !
 
+我是林沅霖，一名接案全端開發者、UI/UX 設計師以及產品經理。
+
+歡迎參觀我的個人作品集網站 [https://www.linyuanlin.com](https://www.linyuanlin.com) !
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ken20001207&show_icons=true&count_private=true)
 
 ## Languages
