@@ -8,7 +8,9 @@ Please visit my portfolio website on [https://www.linyuanlin.com](https://www.li
 
 歡迎參觀我的個人作品集網站 [https://www.linyuanlin.com](https://www.linyuanlin.com) !
 
-![](https://skillicons.dev/icons?i=ts,react,next,remix,tailwind,go,docker,k8s,gcp,mongo,figma,idea)
+<a href="https://www.linyuanlin.com">
+  <img src="https://skillicons.dev/icons?i=ts,react,next,remix,tailwind,go,docker,k8s,gcp,mongo,figma,idea)" />
+</a>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ken20001207&show_icons=true&count_private=true)
 
