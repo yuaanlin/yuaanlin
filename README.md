@@ -2,11 +2,11 @@
 
 I am Yuanlin Lin, a freelance full-stack developer, UI/UX designer and product manager.
 
-Please visit my portfolio website on [https://www.linyuanlin.com](https://www.linyuanlin.com) !
+Please visit my blog on [https://blog.linyuanlin.com](https://blog.linyuanlin.com) and portfolio website on [https://www.linyuanlin.com](https://www.linyuanlin.com) !
 
 我是林沅霖，一名接案全端開發者、UI/UX 設計師以及產品經理。
 
-歡迎參觀我的個人作品集網站 [https://www.linyuanlin.com](https://www.linyuanlin.com) !
+歡迎參觀我的部落格 [https://blog.linyuanlin.com](https://blog.linyuanlin.com) 和個人作品集網站 [https://www.linyuanlin.com](https://www.linyuanlin.com) !
 
 <a href="https://www.linyuanlin.com">
   <img src="https://skillicons.dev/icons?i=ts,react,next,remix,tailwind,go,docker,k8s,gcp,mongo,figma,idea)" />
