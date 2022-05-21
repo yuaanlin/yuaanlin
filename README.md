@@ -2,7 +2,7 @@
 
 I am Yuanlin Lin, a freelance full-stack developer, UI/UX designer and product manager.
 
-Please visit my blog on [https://blog.linyuanlin.com](https://blog.linyuanlin.com) and portfolio website on [https://www.linyuanlin.com](https://www.linyuanlin.com) !
+Please visit my blog on [https://linyuanlin.com](https://linyuanlin.com) and portfolio website on [https://portfolio.linyuanlin.com](https://portfolio.linyuanlin.com) !
 
 我是林沅霖，一名接案全端開發者、UI/UX 設計師以及產品經理。
 
