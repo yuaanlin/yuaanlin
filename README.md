@@ -23,8 +23,6 @@ Please visit my blog on [https://yuanlin.dev](https://yuanlin.dev) and portfolio
 ![](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ken20001207&hide=javascript,css,html)
-
 ## Frontend Skills
 
 ![](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white&link=https://github.com/facebook/react)
