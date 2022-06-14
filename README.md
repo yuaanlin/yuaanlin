@@ -12,7 +12,9 @@ Please visit my blog on [https://yuanlin.dev](https://yuanlin.dev) and portfolio
   <img src="https://skillicons.dev/icons?i=ts,react,next,remix,tailwind,go,docker,k8s,gcp,mongo,figma,idea)" />
 </a>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ken20001207&show_icons=true&count_private=true)
+## My GitHub Stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=yuaanlin&show_icons=true&count_private=true)
 
 ## Languages
 
