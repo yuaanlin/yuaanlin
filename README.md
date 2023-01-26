@@ -1,14 +1,14 @@
 # Wellcome
 
-I am Yuanlin Lin, a freelance full-stack developer, UI/UX designer and product manager.
+I am Yuanlin Lin, a freelance full-stack developer from Taiwan, currently studying at Zhejiang University, majoring in Computer Science. 
+
+我是林沅霖，一名來自台灣的全端接案工程師，目前就讀於浙江大學，主修資訊工程專業。
 
 Please visit my blog on [https://yuanlin.dev](https://yuanlin.dev) and portfolio website on [https://portfolio.yuanlin.dev](https://portfolio.yuanlin.dev) !
 
-Currently working on [Zeabur](https://zeabur.com/home), a platform that helps developers to deploy their frontend, backend and database service with one click!
-
-我是林沅霖，一名接案全端開發者、UI/UX 設計師以及產品經理。
-
 歡迎參觀我的部落格 [https://yuanlin.dev](https://yuanlin.dev) 和個人作品集網站 [https://portfolio.yuanlin.dev](https://portfolio.yuanlin.dev) !
+
+Currently working on [Zeabur](https://zeabur.com/home), a platform that helps developers to deploy their frontend, backend and database service with one click!
 
 目前正在打造 [Zeabur](https://zeabur.com/home)，一個致力於幫助開發者一鍵部署前端、後端及資料庫的服務部署平台！
 
