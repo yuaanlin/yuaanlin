@@ -8,9 +8,9 @@ Please visit my blog on [https://yuanlin.dev](https://yuanlin.dev) and portfolio
 
 歡迎參觀我的部落格 [https://yuanlin.dev](https://yuanlin.dev) 和個人作品集網站 [https://portfolio.yuanlin.dev](https://portfolio.yuanlin.dev) !
 
-Currently working on [Zeabur](https://zeabur.com/home), a platform that helps developers to deploy their frontend, backend and database service with one click!
+Currently working on [Zeabur](https://zeabur.com/), a platform that helps developers to deploy their frontend, backend and database service with one click!
 
-目前正在打造 [Zeabur](https://zeabur.com/home)，一個致力於幫助開發者一鍵部署前端、後端及資料庫的服務部署平台！
+目前正在打造 [Zeabur](https://zeabur.com/zh-TW)，一個致力於幫助開發者一鍵部署前端、後端及資料庫的服務部署平台！
 
 <a href="https://www.linyuanlin.com">
   <img src="https://skillicons.dev/icons?i=ts,react,next,remix,tailwind,go,docker,k8s,gcp,mongo,figma,idea)" />
