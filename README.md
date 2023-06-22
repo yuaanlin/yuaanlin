@@ -2,7 +2,7 @@
 
 I am Yuanlin Lin, a freelance full-stack developer from Taiwan, currently studying at Zhejiang University, majoring in Computer Science. 
 
-我是林沅霖，一名來自台灣的全端接案工程師，目前就讀於浙江大學，主修資訊工程專業。
+我是林沅霖，一名來自台灣的全端工程師，目前就讀於浙江大學，主修資訊工程專業。
 
 Please visit my blog on [https://yuanlin.dev](https://yuanlin.dev) and portfolio website on [https://portfolio.yuanlin.dev](https://portfolio.yuanlin.dev) !
 
