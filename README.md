@@ -4,9 +4,9 @@ I am Yuanlin Lin, a freelance full-stack developer from Taiwan, currently studyi
 
 我是林沅霖，一名來自台灣的全端工程師，目前就讀於浙江大學，主修資訊工程專業。
 
-Please visit my blog on [https://yuanlin.dev](https://yuanlin.dev) and portfolio website on [https://portfolio.yuanlin.dev](https://portfolio.yuanlin.dev) !
+Please visit my blog on [https://yual.in/](https://yual.in) and portfolio website on [https://portfolio.yuanlin.dev](https://portfolio.yuanlin.dev) !
 
-歡迎參觀我的部落格 [https://yuanlin.dev](https://yuanlin.dev) 和個人作品集網站 [https://portfolio.yuanlin.dev](https://portfolio.yuanlin.dev) !
+歡迎參觀我的部落格 [https://yual.in](https://yual.in) 和個人作品集網站 [https://portfolio.yuanlin.dev](https://portfolio.yuanlin.dev) !
 
 Currently working on [Zeabur](https://zeabur.com/), a platform that helps developers to deploy their frontend, backend and database service with one click!
 
